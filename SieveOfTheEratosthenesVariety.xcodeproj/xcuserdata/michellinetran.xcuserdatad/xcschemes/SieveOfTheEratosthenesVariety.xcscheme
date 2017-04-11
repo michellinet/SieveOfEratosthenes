@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01FBD3191E9407F100D48A7C"
+               BuildableName = "SieveOfTheEratosthenesVariety.app"
+               BlueprintName = "SieveOfTheEratosthenesVariety"
+               ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01FBD32D1E9407F100D48A7C"
+               BuildableName = "SieveOfTheEratosthenesVarietyTests.xctest"
+               BlueprintName = "SieveOfTheEratosthenesVarietyTests"
+               ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01FBD3381E9407F100D48A7C"
+               BuildableName = "SieveOfTheEratosthenesVarietyUITests.xctest"
+               BlueprintName = "SieveOfTheEratosthenesVarietyUITests"
+               ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01FBD3191E9407F100D48A7C"
+            BuildableName = "SieveOfTheEratosthenesVariety.app"
+            BlueprintName = "SieveOfTheEratosthenesVariety"
+            ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01FBD3191E9407F100D48A7C"
+            BuildableName = "SieveOfTheEratosthenesVariety.app"
+            BlueprintName = "SieveOfTheEratosthenesVariety"
+            ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01FBD3191E9407F100D48A7C"
+            BuildableName = "SieveOfTheEratosthenesVariety.app"
+            BlueprintName = "SieveOfTheEratosthenesVariety"
+            ReferencedContainer = "container:SieveOfTheEratosthenesVariety.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
